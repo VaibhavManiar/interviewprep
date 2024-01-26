@@ -1,0 +1,3 @@
+<SpringProfile name="dev">
+  <Logger name="com.example.fam" level="debug"/>
+</SpringProfile>
